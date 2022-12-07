@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="HomePageTabTitle">
+        <item>Salut</item>
+        <item>Entrenaments</item>
+    </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Imatge</item>
+        <item>Ruta</item>
+        <item>Targeta</item>
+    </string-array>
+    <string-array name="SportTabTitle">
+        <item>Corrent</item>
+        <item>Caminant</item>
+        <item>Ciclisme</item>
+        <item>Salt a la corda</item>
+        <item>Entrenament</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="arr_prompt_label">
+        <item>Raonable</item>
+        <item>Llarg</item>
+        <item>Massa llarg</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>Temps per moures!</item>
+        <item>Aprèn més</item>
+        <item>A beure una mica d\'aigua i passejar.</item>
+        <item>Aprèn més</item>
+        <item>Puja un tram d\'escales</item>
+        <item>Aprèn més</item>
+        <item>"No us assegueu massa temps"</item>
+        <item>Aprèn més</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1 hora</item>
+        <item>2 hores</item>
+    </string-array>
+    <string-array name="contact_relation_array">
+        <item>Sense especificar</item>
+        <item>Pare</item>
+        <item>Germana</item>
+        <item>Germà</item>
+        <item>Cònjuge</item>
+        <item>Parella</item>
+        <item>Amic</item>
+        <item>Col·lega</item>
+        <item>Company de classe</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item>" kcal"</item>
+        <item>" kJ"</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Sense especificar</item>
+        <item>Home</item>
+        <item>Dona</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" cm"</item>
+        <item>" m"</item>
+        <item>" km"</item>
+    </string-array>
+    <string-array name="normal_blood_array">
+        <item>Sense especificar</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>Dia</item>
+        <item>Setmana</item>
+        <item>Mes</item>
+    </string-array>
+    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>Dl, Dc, Dv</item>
+        <item>Dt, Dj, Ds</item>
+        <item>Dc, Dv, Dg</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>Cada dilluns</item>
+        <item>Cada dimarts</item>
+        <item>Cada dimecres</item>
+        <item>Cada dijous</item>
+        <item>Cada divendres</item>
+        <item>Cada dissabte</item>
+        <item>Cada diumenge</item>
+    </string-array>
+    <string-array name="rh_blood_array">
+        <item>Sense especificar</item>
+        <item>Negatiu</item>
+        <item>Positiu</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>Sense restriccions</item>
+        <item>Limiteu la activitat en segon pla</item>
+        <item>Atura després de 10 minuts</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>" km/h"</item>
+        <item>" m/s"</item>
+    </string-array>
+    <string-array name="stand_guide_page_content1">
+        <item>"Seure no beneficia a la vostra salut. Encara que no pugueu reduir el temps que passeu asseguts, aixecar-vos de tant en tant és una bona idea."</item>
+        <item>Aquesta funció us recordarà que passeu almenys un minut de cada hora de peu. Dotze hores amb pauses per estar dret cada dia us ajudarà a evitar els riscos del sedentarisme.</item>
+        <item>Toqueu \"Continua\" per obtenir més informació i activar aquesta funció.</item>
+    </string-array>
+    <string-array name="stand_guide_page_content2">
+        <item>Xiaomi Health pot detectar i enregistrar quan es posa de peu. També podeu rebre recordatoris que es posin en peu després d’una hora d’inactivitat.</item>
+        <item>Aquesta funció rastreja el vostre moviment i envia recordatoris en funció dels resultats.</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="week">
+        <item>Diumenge</item>
+        <item>Dilluns</item>
+        <item>Dimarts</item>
+        <item>Dimecres</item>
+        <item>Dijous</item>
+        <item>Friday</item>
+        <item>Dissabte</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>Dg</item>
+        <item>Dl</item>
+        <item>Dt</item>
+        <item>Dc</item>
+        <item>Dj</item>
+        <item>Dv</item>
+        <item>Ds</item>
+    </string-array>
+    <string-array name="week_short">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>" g"</item>
+        <item>" kg"</item>
+        <item>" t"</item>
+        <item>" liang"</item>
+        <item>" jin"</item>
+        <item>" lb"</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>Sense especificar</item>
+        <item>Sí</item>
+        <item>No</item>
+    </string-array>
+</resources>

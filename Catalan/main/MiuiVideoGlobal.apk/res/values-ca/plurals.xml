@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">Fa 1 hora</item>
+        <item quantity="other">Fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Fa 1 hora</item>
+        <item quantity="other">Fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">En mitja hora</item>
+        <item quantity="other">En mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">d\'aquí a %d min</item>
+        <item quantity="one">en 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Fa %d</item>
+        <item quantity="one">Fa 1 min</item>
+    </plurals>
+    <plurals name="comment_model_watch_reply">
+        <item quantity="other">Veure %d respostes</item>
+        <item quantity="one">Veure %d resposta</item>
+    </plurals>
+    <plurals name="dialog_app_rating_choose_star">
+        <item quantity="other">%s estrelles seleccionades</item>
+        <item quantity="one">%s estrella seleccionada</item>
+    </plurals>
+    <plurals name="feed_back_home">
+        <item quantity="other">Tornem a la pàgina principal en %1$d segons…</item>
+        <item quantity="one">Tornem a la pàgina principal en %1$d segon…</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">En mitja hora</item>
+        <item quantity="other">En mitja hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">en %d minuts</item>
+        <item quantity="one">en 1 minut</item>
+    </plurals>
+    <plurals name="incentive_dialog_congratulation_get_credits_title">
+        <item quantity="other">"T'has guanyat %d punts!"</item>
+        <item quantity="one">"T'has guanyat %d punt!"</item>
+    </plurals>
+    <plurals name="incentive_dialog_credits">
+        <item quantity="other">punts %d</item>
+        <item quantity="one">%d punt</item>
+    </plurals>
+    <plurals name="incentive_dialog_login_and_get_credits_message">
+        <item quantity="other">Inicieu la sessió per reclamar i guanyar %d punts addicionals</item>
+        <item quantity="one">Inicieu la sessió per reclamar i guanyar %d punt extra</item>
+    </plurals>
+    <plurals name="incentive_dialog_seconds">
+        <item quantity="other">%d segons</item>
+        <item quantity="one">%d segon</item>
+    </plurals>
+    <plurals name="incentive_guide_all_time_tip">
+        <item quantity="other">Mira %d minuts totals per guanyar punts! S\'ha completat la tasca ara?</item>
+        <item quantity="one">Mira %d minut total per guanyar punts! S\'ha completat la tasca ara?</item>
+    </plurals>
+    <plurals name="incentive_guide_coins_tip">
+        <item quantity="other">"Teniu %d punts per reclamar
+disponible només avui"</item>
+        <item quantity="one">"Heu %d punt per reclamar
+disponible només avui"</item>
+    </plurals>
+    <plurals name="incentive_guide_current_time_tip">
+        <item quantity="other">"Avui has vist %d minuts"</item>
+        <item quantity="one">"Avui has vist %d minut"</item>
+    </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">S\'ha compartit correctament. Heu guanyat %d punts.</item>
+        <item quantity="one">S\'ha compartit correctament. Heu guanyat %d punt.</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">S\'ha subscrit correctament. Heu guanyat %d punts.</item>
+        <item quantity="one">S\'ha subscrit correctament. Heu guanyat %d punt.</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_begin">
+        <item quantity="other">Guanya %d punts!</item>
+        <item quantity="one">Guanya %d punt!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_finish">
+        <item quantity="other">"Les tasques d'avui s'han completat! Has guanyat %d punts."</item>
+        <item quantity="one">"Les tasques d'avui s'han completat! T'has guanyat %d punt."</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_of_one">
+        <item quantity="other">Has vist %1$1di t\'has guanyat %2$2d punts!</item>
+        <item quantity="one">Has vist %1$1di t\'has guanyat %2$2d punt!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip1">
+        <item quantity="other">Veure un vídeo aleatori per guanyar punts de %d</item>
+        <item quantity="one">Veure un vídeo aleatori per guanyar %d punt</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip2">
+        <item quantity="other">Veure %1$1d segons d\'un vídeo per guanyar punts de %2$2d</item>
+        <item quantity="one">Veure %1$1d segons d\'un vídeo per guanyar %2$2d punt</item>
+    </plurals>
+    <plurals name="incentive_toast_share_success">
+        <item quantity="other">Va obtenir %d punts. Compartir per guanyar més.</item>
+        <item quantity="one">S\'ha guanyat %d punt. Compartir per guanyar més.</item>
+    </plurals>
+    <plurals name="incentive_toast_subscribe_success">
+        <item quantity="other">Va obtenir %d punts. Segueix subscrivint-te per guanyar més.</item>
+        <item quantity="one">S\'ha guanyat %d punt. Segueix subscrivint-te per guanyar més.</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
+    </plurals>
+    <plurals name="local_diversion_video_number">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="local_video_floder">
+        <item quantity="other">%d carpetes</item>
+        <item quantity="one">%d carpeta</item>
+    </plurals>
+    <plurals name="long_video_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d temporades</item>
+        <item quantity="one">%d temporada</item>
+    </plurals>
+    <plurals name="lv_subtitle_offset_advance_times">
+        <item quantity="other">Es mostraran els subtítols %.1f segons més aviat</item>
+        <item quantity="one">Es mostraran els subtítols %.1f segon més aviat</item>
+    </plurals>
+    <plurals name="lv_subtitle_offset_delay_times">
+        <item quantity="other">Es mostraran els subtítols %.1f segons més tard</item>
+        <item quantity="one">Es mostraran els subtítols %.1f segon més tard</item>
+    </plurals>
+    <plurals name="lv_subtitle_onlinesub_size_float_kb">
+        <item quantity="other">Mida: %.2f kB</item>
+        <item quantity="one">Mida: %.2f kB</item>
+    </plurals>
+    <plurals name="lv_video_count">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title1">
+        <item quantity="other">%1$1d de %2$2d episodis disponibles</item>
+        <item quantity="one">%1$1d de %2$2d episodi disponible</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title2">
+        <item quantity="other">%1$1d de %2$2d episodis disponibles</item>
+        <item quantity="one">%1$1d de %2$2d episodi disponible</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title_all">
+        <item quantity="other">%d episodis en total</item>
+        <item quantity="one">%d episodi en total</item>
+    </plurals>
+    <plurals name="mediation_animate_close_after">
+        <item quantity="other">Queden %s s</item>
+        <item quantity="one">Queda %s s</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elements seleccionats</item>
+        <item quantity="one">%d element seleccionat</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificacions noves</item>
+        <item quantity="one">%d nova notificació</item>
+    </plurals>
+    <plurals name="new_incentive_toast_share_success">
+        <item quantity="other">"S'ha compartit correctament. S'han guanyat %d punts. Reclamació al centre de punts."</item>
+        <item quantity="one">"S'ha compartit correctament. T'has guanyat %d punt. Reclamació al centre de punts."</item>
+    </plurals>
+    <plurals name="new_incentive_toast_subscribe_success">
+        <item quantity="other">"S'ha subscrit correctament. S'han guanyat %d punts. Reclamació al centre de punts."</item>
+        <item quantity="one">"S'ha subscrit correctament. T'has guanyat %d punt. Reclamació al centre de punts."</item>
+    </plurals>
+    <plurals name="notice_user_banned">
+        <item quantity="other">El teu contingut té elements (%1$s) que infringeixen les nostres normes comunitàries. El teu compte quedarà suspès per %2$d dies fins el %3$s.</item>
+        <item quantity="one">El teu contingut té elements (%1$s) que infringeixen les nostres normes comunitàries. El teu compte quedarà suspès per %2$d dia fins el %3$s.</item>
+    </plurals>
+    <plurals name="notification_close_tip">
+        <item quantity="other">Aquesta funció es desactivarà durant %s dies</item>
+        <item quantity="one">Aquesta funció es desactivarà durant %s dis</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Fa %d</item>
+        <item quantity="one">Fa 1 minut</item>
+    </plurals>
+    <plurals name="ovp_detail_v_video_count">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="ovp_home_item_unit">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="plus_edit_delete_comfire_text">
+        <item quantity="other">Voleu eliminar ara %s elements?</item>
+        <item quantity="one">Voleu eliminar ara %s element?</item>
+    </plurals>
+    <plurals name="plus_edit_top_titletext">
+        <item quantity="other">%s elements seleccionats</item>
+        <item quantity="one">%s element seleccionat</item>
+    </plurals>
+    <plurals name="plus_local_edit_delete_confirm_text">
+        <item quantity="other">Voleu suprimir permanentment %s fitxers ara?</item>
+        <item quantity="one">Voleu suprimir permanentment %s fitxer ara?</item>
+    </plurals>
+    <plurals name="plus_player_subtitle_online_size">
+        <item quantity="other">Mida del fitxer: %.2fKB</item>
+        <item quantity="one">Mida del fitxer: %.2fKB</item>
+    </plurals>
+    <plurals name="plus_search_result_title">
+        <item quantity="other">%2$s resultats per \"%1$s\"</item>
+        <item quantity="one">%2$s resultat per \"%1$s\"</item>
+    </plurals>
+    <plurals name="plus_serval_pictures">
+        <item quantity="other">%d imatges</item>
+        <item quantity="one">%d imatge</item>
+    </plurals>
+    <plurals name="plus_serval_videos">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">Premeu dues vegades per rebobinar %d segons</item>
+        <item quantity="one">Premeu dues vegades per rebobinar %d segon</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">Premeu dues vegades per avançar ràpid %d segons</item>
+        <item quantity="one">Premeu dues vegades per avançar ràpid %d segon</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s s</item>
+        <item quantity="one">%1$s s</item>
+    </plurals>
+    <plurals name="subscriber">
+        <item quantity="other">%s subscriptors</item>
+        <item quantity="one">%s subscriptor</item>
+    </plurals>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Els subtítols s\'avancen %.1f segon</item>
+        <item quantity="one">Els subtítols s\'avancen %.1f segon</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Els subtítols es retarden %.1f segons</item>
+        <item quantity="one">Els subtítols es retarden %.1f segon</item>
+    </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">Afegeix fins a %d adreces d’interès</item>
+        <item quantity="one">Afegeix fins a %d adreça d’interès</item>
+    </plurals>
+    <plurals name="video_like_text">
+        <item quantity="other">%s m\'agrada</item>
+        <item quantity="one">%s m\'agrada</item>
+    </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%d visualitzacions</item>
+        <item quantity="one">%d visualització</item>
+    </plurals>
+</resources>

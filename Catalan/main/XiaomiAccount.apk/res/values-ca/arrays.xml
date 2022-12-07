@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Home</item>
+        <item>Dona</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Configuració del compte</item>
+        <item>Afegiu i gestioneu comptes de tercers</item>
+        <item>Comptes; SNS; Facebook; Google; El meu compte; Compte; Compte Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Configuració del compte</item>
+        <item>Afegiu i gestioneu comptes de tercers</item>
+        <item>Comptes; SNS; WeChat; QQ; El meu compte; Compte; Compte Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Canviar la contrasenya</item>
+        <item>Canvia la contrasenya del compte Xiaomi</item>
+        <item>Canvia la contrasenya; Actualitza la contrasenya; El meu compte; Compte; Compte Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Ajuda</item>
+        <item>Obteniu ajuda i assistència tècnica del compte Xiaomi</item>
+        <item>El meu compte; Compte; Compte Xiaomi; Ajuda del compte; Centre d\'ajuda</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Verificació en dos passos</item>
+        <item>Definir la verificació en dos passos per al vostre compte Xiaomi</item>
+        <item>Inicia la sessió; Inicia la sessió;2 passos;verificació; Xiaomi; Compte; El meu compte; Compte; Compte Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Seguretat del compte</item>
+        <item>Recuperació de telèfon i correu electrònic, gestió de contrasenyes</item>
+        <item>Seguretat del compte; Inici de sessió; Telèfon de recuperació; Correu electrònic de recuperació; Protecció del compte; Número de telèfon; Correu electrònic; Canvia la contrasenya; Afegeix un número de telèfon; Afegeix un correu electrònic; El meu compte; Compte; Compte Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Dispositius</item>
+        <item>Gestionar dispositius associats amb el teu compte Xiaomi</item>
+        <item>Administra els dispositius; Els meus dispositius;Dispositius;Llista de dispositius; El meu compte; Compte; Compte Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Política de privadesa</item>
+        <item>Veure la política de privadesa del compte Xiaomi</item>
+        <item>El meu compte; Compte; Compte Xiaomi; Política de privadesa</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Correu de recuperació</item>
+        <item>Afegiu un correu de recuperació</item>
+        <item>Correu electrònic de recuperació; Correu electrònic; Afegeix un correu electrònic; El meu compte; Compte; Compte Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Telèfon de recuperació</item>
+        <item>Afegiu un telèfon de recuperació</item>
+        <item>Telèfon de recuperació; Afegeix un telèfon; El meu compte; Compte; Compte Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Anuncis</item>
+        <item>Gestioneu els anuncis del sistema</item>
+        <item>Anuncis; El meu compte; Compte; Compte Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Informació del compte</item>
+        <item>Consulteu la vostra foto de perfil i gestioneu la informació del compte</item>
+        <item>Informació personal;foto de perfil;sobrenom;informació del compte; Mi identificador;identificador;mi compte; Compte; Compte Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Acord d\'usuari</item>
+        <item>Acord d\'usuari</item>
+        <item>El meu compte; Compte; Compte Xiaomi; Acord d\'usuari; EULA</item>
+    </string-array>
+</resources>

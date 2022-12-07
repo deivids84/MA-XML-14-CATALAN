@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="settings_search_earth">
+        <item>Casa</item>
+        <item>Fons/Superfons de pantalla/Casa</item>
+        <item>Terra;Superfons de pantalla;Edició Terra;Fons de pantalla</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Geometria</item>
+        <item>Fons/Superfons de pantalla/Geometria</item>
+        <item>Geometria;Abstracte;Superfons de pantalla;Fons de pantalla</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>El planeta vermell</item>
+        <item>Fons de pantalla/Superfons de pantalla/El planeta vermell</item>
+        <item>Mart;Edició Mart;Superfons de pantalla;Fons de pantalla</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Anells de Saturn</item>
+        <item>Fons de pantalla / Super fons de pantalla / Anells de Saturn</item>
+        <item>Planeta; Saturn; Super paper pintat; Fons de pantalla</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Cims nevats</item>
+        <item>Fons/Superfons de pantalla/Cims nevats</item>
+        <item>Terra;Muntanyes;Superfons de pantalla;Fons</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Superfons de pantalla</item>
+        <item>Fons/Superfons de pantalla</item>
+        <item>Superfons de pantalla;Fons de pantalla;Fons de pantalla dinàmic;Fons de pantalla en 3D</item>
+    </string-array>
+    <string-array name="settings_search_weather">
+        <item>Temps</item>
+        <item>Fons/Superfons de pantalla/Temps</item>
+        <item>Temos;Informació del temps;Superfons de pantalla;Fons de pantalla</item>
+    </string-array>
+</resources>

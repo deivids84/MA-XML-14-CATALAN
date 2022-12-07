@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Configuració de l\'emmagatzematge</string>
+    <string name="wifi_softap_config_change">La configuració del punt d\'accés Wi‑Fi ha canviat</string>
+    <string name="wifi_softap_config_change_summary">Toca per veure\'n els detalls</string>
+</resources>

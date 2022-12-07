@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_chars">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>Aquesta nit</item>
+        <item>Demà</item>
+        <item>Cap de setmana</item>
+        <item>Setmana vinent</item>
+        <item>Mes vinent</item>
+        <item>Seleccionar data</item>
+    </string-array>
+    <string-array name="error_message_respond">
+        <item>LOGIN Error d\'inici de sessió o error de contrasenya</item>
+        <item>LOGIN Error de contrasenya en l\'inici de sessió</item>
+        <item>Invalid login user or password</item>
+        <item>LOGIN failure, invalid username/password</item>
+        <item>LOGIN errno:1424, account not exist(md return:2100001)</item>
+        <item>ERR.LOGIN.DOMAINNOTEXIST</item>
+        <item>Please using authorized code to login. More information at https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>Authorized code is incorrect. More information at https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>LOGIN Login error user suspended</item>
+        <item>LOGIN failure, 楠岃瘉澶辫触锛\ufffd</item>
+        <item>LOGIN errno:1423, user password error(sp return:2200019)</item>
+        <item>AUTHENTICATIONFAILED LOGIN Invalid credentials</item>
+        <item>Login fail. Password is incorrect or service is not open</item>
+        <item>LOGIN imap4 nosupport</item>
+        <item>LOGIN errno:1328, custom imap off</item>
+        <item>LOGIN Login error user suspended</item>
+        <item>LOGIN user in black list</item>
+        <item>LOGIN failed. Account is blocked. Login to your account via a web browser to verify your identity.</item>
+        <item>LOGIN user in black list</item>
+        <item>LOGIN errno:1412 status=51 The password is not changed for a long time. Please modify the password. http://mail.10086.cn</item>
+        <item>LOGIN imap4 nosupport</item>
+        <item>LOGIN failed. Account is blocked. Login to your account via a web browser to verify your identity.</item>
+        <item>ERR Invalid login user or password</item>
+        <item>Login fail. Please using app password to login. More information at http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
+        <item>ERR custom pop3 off</item>
+        <item>LOGIN Login error user name or password error</item>
+        <item>Invalid login or password</item>
+        <item>in blacklist, please switch your network or login https://mail.sohu.com to setup client ip whitelist</item>
+        <item>java.net.UnknownHostException: Unable to resolve host</item>
+        <item>client inhabilitat, canvieu l\'estat al lloc https://mail.sohu.com</item>
+        <item>sense contrasenya inicial, inicieu la sessió https://mail.sohu.com per generar la contrasenya del client</item>
+    </string-array>
+    <string-array name="invoice_card_pdf_keyword">
+        <item>发票</item>
+        <item>factura</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Vists recentment</item>
+        <item>Format</item>
+        <item>Nom</item>
+        <item>Remitent</item>
+        <item>Data de recepció</item>
+    </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Tots</item>
+        <item>Només remitents</item>
+    </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Lloc:</item>
+        <item>Correu:</item>
+        <item>Mòbil:</item>
+        <item>Telèfon:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>Correu:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>Correu:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adreça:</item>
+        <item>Telèfon:</item>
+        <item>Nom:</item>
+        <item>Correu electrònic:</item>
+        <item>Mòbil:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Codi postal:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Renúncia:</item>
+        <item>Renúncia de correu electrònic</item>
+        <item>Enviat a través de WPSMail</item>
+        <item>Enviat des de</item>
+        <item>Enviat amb</item>
+        <item>Gràcies,</item>
+        <item>Salutacions cordials</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Gràcies.</item>
+        <item>Una salutació,</item>
+        <item>Enviat des del meu</item>
+        <item>Correu electrònic original</item>
+        <item>Enviat des del meu</item>
+        <item>Enviat des de</item>
+        <item>De</item>
+        <item>Aquest correu electrònic</item>
+        <item>Avís sobre responsabilitats</item>
+        <item>Avís sobre responsabilitats de correu electrònic</item>
+    </string-array>
+</resources>

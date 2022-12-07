@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">Fa 1 hora</item>
+        <item quantity="other">Fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Fa 1 hora</item>
+        <item quantity="other">Fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">En mitja hora</item>
+        <item quantity="other">En mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">en %d mins</item>
+        <item quantity="one">en 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Fa %d min</item>
+        <item quantity="one">Fa 1 min</item>
+    </plurals>
+    <plurals name="adblock_notification">
+        <item quantity="other">%d anuncis bloquejats</item>
+        <item quantity="one">%d anunci bloquejat</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d elements bloquejats</item>
+        <item quantity="one">%d element bloquejat</item>
+    </plurals>
+    <plurals name="adblock_total_counts">
+        <item quantity="other">%d anuncis bloquejats fins ara</item>
+        <item quantity="one">%d anunci bloquejat fins ara</item>
+    </plurals>
+    <plurals name="articles_updated_amount">
+        <item quantity="other">Comprova %1$d articles nous</item>
+        <item quantity="one">Comprova %1$d article nou</item>
+    </plurals>
+    <plurals name="auto_play_next_tips">
+        <item quantity="other">Reproduint el següent vídeo en %d segons</item>
+        <item quantity="one">Reproduint el següent vídeo en %d segon</item>
+    </plurals>
+    <plurals name="bonus_amount">
+        <item quantity="other">bonificacions %d</item>
+        <item quantity="one">bonificació %d</item>
+    </plurals>
+    <plurals name="bookroom__clear_invalid_book_view__found">
+        <item quantity="other">S\'han trobat &lt;font color=\"#ed6c00\"&gt;%d&lt;/font&gt; elements obsolets</item>
+        <item quantity="one">S\'ha trobat &lt;font color=\"#ed6c00\"&gt;%d&lt;/font&gt; element obsolet</item>
+    </plurals>
+    <plurals name="coin_amount">
+        <item quantity="other">Monedes %d</item>
+        <item quantity="one">moneda %d</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d fa uns dies</item>
+        <item quantity="one">%1$d fa un dia</item>
+    </plurals>
+    <plurals name="download_business_v5_edit_mode_title">
+        <item quantity="other">%1$d elements seleccionats</item>
+        <item quantity="one">%1$d element seleccionat</item>
+    </plurals>
+    <plurals name="download_dialog_confirm_delete_downloads_message">
+        <item quantity="other">Voleu eliminar %d tasques?</item>
+        <item quantity="one">Voleu eliminar %d tasca?</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avança ràpidament %d segons</item>
+        <item quantity="one">Avança ràpidament %d segon</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Rebobina %d segons</item>
+        <item quantity="one">Rebobina %d segon</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$d elements</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="file_num">
+        <item quantity="other">fitxers %d</item>
+        <item quantity="one">%d fitxer</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d coincidències</item>
+        <item quantity="one">%d coincidència</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">S\'han trobat %1$d fitxers nous</item>
+        <item quantity="one">S\'ha trobat %1$d fitxer nou</item>
+    </plurals>
+    <plurals name="general__d_day_unit">
+        <item quantity="other">%d dies</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="general__d_hour_unit">
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">%d hr</item>
+    </plurals>
+    <plurals name="general__d_minute_unit">
+        <item quantity="other">%d minuts</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="general__make_purchase_bonus">
+        <item quantity="other">+ bonificacions%d</item>
+        <item quantity="one">+ bonificació%d</item>
+    </plurals>
+    <plurals name="general__make_purchase_rule_item_detail">
+        <item quantity="other">"1. Una bonificació és igual a una moneda. Les bonificacions són vàlides per a %d dies i s'utilitzaran abans de les monedes per desbloquejar capítols.
+2. Si no podeu recarregar el compte o l'import de la recàrrega no es reflecteix al compte, envieu-nos un correu electrònic a wonderwebfiction@gmail.com.
+3. Per evitar problemes amb el saldo, comprova que hagis iniciat la sessió. El saldo s'afegirà al compte."</item>
+        <item quantity="one">"1. Una bonificació és igual a una moneda. Les bonificacions són vàlides per %d dia i s'utilitzaran abans de les monedes per desbloquejar capítols.
+2. Si no podeu recarregar el compte o l'import de la recàrrega no es reflecteix al compte, envieu-nos un correu electrònic a wonderwebfiction@gmail.com.
+3. Per evitar problemes amb el saldo, comprova que hagis iniciat la sessió. El saldo s'afegirà al compte."</item>
+    </plurals>
+    <plurals name="general__shared__10_min_reading_task_hint">
+        <item quantity="other">Llegiu durant 10 minuts per obtenir bonificacions %d</item>
+        <item quantity="one">Llegiu durant 10 minuts per obtenir %d bonificació</item>
+    </plurals>
+    <plurals name="general__shared__60_min_reading_task_hint">
+        <item quantity="other">Llegiu durant 60 minuts per obtenir bonificacions %d</item>
+        <item quantity="one">Llegiu durant 60 minuts per obtenir %d bonificació</item>
+    </plurals>
+    <plurals name="general__shared__check_in_success_reward">
+        <item quantity="other">Tens %d bonificacions per fer el check-in!</item>
+        <item quantity="one">Tens %d bonificació per fer el check-in!</item>
+    </plurals>
+    <plurals name="general__shared__check_in_success_reward_button">
+        <item quantity="other">Mireu un vídeo per obtenir %d bonificacions addicionals.</item>
+        <item quantity="one">Mireu un vídeo per obtenir %d bonificació addicional.</item>
+    </plurals>
+    <plurals name="general__shared__exit_unlock_page_reward_result">
+        <item quantity="other">S\'han rebut bonificacions %d amb èxit</item>
+        <item quantity="one">S\'ha rebut %d bonificació amb èxit</item>
+    </plurals>
+    <plurals name="general__shared__exit_unlock_page_reward_title">
+        <item quantity="other">Mireu un vídeo per obtenir bonificacions %d .</item>
+        <item quantity="one">Mireu un vídeo per obtenir %d bonificació.</item>
+    </plurals>
+    <plurals name="general__shared__reading_task_reward">
+        <item quantity="other">+ bonificacions%d</item>
+        <item quantity="one">+ bonificació%d</item>
+    </plurals>
+    <plurals name="general__shared__reading_task_success_reward">
+        <item quantity="other">Tens %d bonificacions per completar una tasca de lectura!</item>
+        <item quantity="one">Tens %d bonificació per completar una tasca de lectura!</item>
+    </plurals>
+    <plurals name="general__shared__reading_task_success_reward_button">
+        <item quantity="other">Mireu un vídeo per obtenir %d bonificacions addicionals.</item>
+        <item quantity="one">Mireu un vídeo per obtenir %d bonificació addicional.</item>
+    </plurals>
+    <plurals name="general__shared__regular_success_reward">
+        <item quantity="other">Tens %d bonificacions!</item>
+        <item quantity="one">Tens %d bonus!</item>
+    </plurals>
+    <plurals name="general__shared__regular_success_reward_button">
+        <item quantity="other">Mireu un altre vídeo per obtenir %d bonificacions addicionals.</item>
+        <item quantity="one">Mireu un altre vídeo per obtenir %d bonificació addicional.</item>
+    </plurals>
+    <plurals name="general__shared__reward_result">
+        <item quantity="other">S\'han rebut %d bonificacions addicionals amb èxit</item>
+        <item quantity="one">S\'ha rebut %d bonificació extra amb èxit</item>
+    </plurals>
+    <plurals name="general__shared__top_up_reward">
+        <item quantity="other">Mireu un vídeo per obtenir %d bonificacions addicionals.</item>
+        <item quantity="one">Mireu un vídeo per obtenir %d bonificació addicional.</item>
+    </plurals>
+    <plurals name="general__shared_read_10_min_hint">
+        <item quantity="other">Llegir durant 10 minuts per obtenir bonificacions %d</item>
+        <item quantity="one">Llegir durant 10 minuts per obtenir %d bonificació</item>
+    </plurals>
+    <plurals name="general__shared_read_10_more_min_hint">
+        <item quantity="other">Llegir durant 10 minuts més per obtenir bonificacions %d</item>
+        <item quantity="one">Llegiu durant 10 minuts més per obtenir %d bonificació</item>
+    </plurals>
+    <plurals name="general__shared_read_120_min_hint">
+        <item quantity="other">Llegir durant 120 minuts per obtenir bonificacions %d</item>
+        <item quantity="one">Llegir durant 120 minuts per obtenir %d bonificació</item>
+    </plurals>
+    <plurals name="general__shared_read_20_more_min_hint">
+        <item quantity="other">Llegir durant 20 minuts més per obtenir bonificacions %d</item>
+        <item quantity="one">Llegir durant 20 minuts més per obtenir %d bonificació</item>
+    </plurals>
+    <plurals name="general__shared_read_30_min_hint">
+        <item quantity="other">Llegir durant 30 minuts per obtenir %d bonificacions</item>
+        <item quantity="one">Llegir durant 30 minuts per obtenir %d bonificació</item>
+    </plurals>
+    <plurals name="general__shared_read_30_more_min_hint">
+        <item quantity="other">Llegir durant 30 minuts més per obtenir bonificacions %d</item>
+        <item quantity="one">Llegir durant 30 minuts més per obtenir %d bonificació</item>
+    </plurals>
+    <plurals name="general__shared_read_5_min_hint">
+        <item quantity="other">Llegiu durant 5 minuts per obtenir bonificacions %d</item>
+        <item quantity="one">Llegiu durant 5 minuts per obtenir %d bonificació</item>
+    </plurals>
+    <plurals name="general__shared_read_5_more_min_hint">
+        <item quantity="other">Llegiu durant 5 minuts més per obtenir bonificacions %d</item>
+        <item quantity="one">Llegiu durant 5 minuts més per obtenir %d bonificació</item>
+    </plurals>
+    <plurals name="general__shared_read_60_min_hint">
+        <item quantity="other">Llegir durant 60 minuts per obtenir %d bonificacions</item>
+        <item quantity="one">Llegiu durant 60 minuts per obtenir %d bonificació</item>
+    </plurals>
+    <plurals name="general__shared_read_90_min_hint">
+        <item quantity="other">Llegir durant 90 minuts per obtenir bonificacions %d</item>
+        <item quantity="one">Llegir durant 90 minuts per obtenir %d bonificació</item>
+    </plurals>
+    <plurals name="general__shared_reading_length">
+        <item quantity="other">Llegir durant %d minuts</item>
+        <item quantity="one">Llegir durant %d min</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="hashtag_followers">
+        <item quantity="other">%d seguidors</item>
+        <item quantity="one">%d seguidor</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d fa unes hores</item>
+        <item quantity="one">%1$d fa una hora</item>
+    </plurals>
+    <plurals name="import_confirm">
+        <item quantity="other">Importa fitxers %d</item>
+        <item quantity="one">Importa %d fitxer</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">En mitja hora</item>
+        <item quantity="other">En mitja hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">en %d minuts</item>
+        <item quantity="one">en 1 minut</item>
+    </plurals>
+    <plurals name="income_expenses_bonus">
+        <item quantity="other">bonificacions %1$s%2$d</item>
+        <item quantity="one">bonificació %1$s%2$d</item>
+    </plurals>
+    <plurals name="income_expenses_coins">
+        <item quantity="other">Monedes %1$s%2$d</item>
+        <item quantity="one">moneda %1$s%2$d</item>
+    </plurals>
+    <plurals name="intercept_panel_protection_total">
+        <item quantity="other">Protegit %d cops</item>
+        <item quantity="one">Protegit %d cop</item>
+    </plurals>
+    <plurals name="le_notification_download_completed">
+        <item quantity="other">S\'han baixat %1$s elements amb èxit</item>
+        <item quantity="one">S\'ha baixat %1$s element amb èxit</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d fa uns minuts</item>
+        <item quantity="one">%1$d fa un minut</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elements sel·leccionats</item>
+        <item quantity="one">%d element sel·leccionat</item>
+    </plurals>
+    <plurals name="mw_last_num_days">
+        <item quantity="other">Últims %d dies</item>
+        <item quantity="one">Últim %d dia</item>
+    </plurals>
+    <plurals name="mw_matches_found">
+        <item quantity="other">%1$d de %2$d</item>
+        <item quantity="one">%d coincidència</item>
+    </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">Després de %d segons es crearà automàticament una pàgina nova</item>
+        <item quantity="one">Després d\'%d segon es crearà automàticament una pàgina nova</item>
+    </plurals>
+    <plurals name="nf_item_like">
+        <item quantity="other">%s m\'agrada</item>
+        <item quantity="one">%s m\'agrada</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">Seleccionar %1$d elements</item>
+        <item quantity="one">Seleccionar %1$d element</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Fa %d minuts</item>
+        <item quantity="one">Fa 1 minut</item>
+    </plurals>
+    <plurals name="person_menu_protect_count">
+        <item quantity="other">Protegit %s cops</item>
+        <item quantity="one">Protegit %s cop</item>
+    </plurals>
+    <plurals name="personal__attance_activity_check_in_bonus_number">
+        <item quantity="other">+ monedes%d</item>
+        <item quantity="one">+ moneda%d</item>
+    </plurals>
+    <plurals name="personal__check_in__reading_complete">
+        <item quantity="other">Progrés: %1$d/%2$d minuts</item>
+        <item quantity="one">Progrés: %1$d/ min%2$d</item>
+    </plurals>
+    <plurals name="personal__check_in__reading_task">
+        <item quantity="other">Llegir durant %d minuts</item>
+        <item quantity="one">Llegir durant %d minut</item>
+    </plurals>
+    <plurals name="personal__check_in_bonus_next_notice">
+        <item quantity="other">Obtenir %d bonificacions demà</item>
+        <item quantity="one">Obtenir %d bonificació demà</item>
+    </plurals>
+    <plurals name="personal__check_in_bonus_notice">
+        <item quantity="other">Check-in per obtenir bonificacions %d</item>
+        <item quantity="one">Check-in per obtenir %d bonus</item>
+    </plurals>
+    <plurals name="personal__check_in_continuous_days">
+        <item quantity="other">Comprovat %d dies seguits</item>
+        <item quantity="one">Desprotegit %d dia seguit</item>
+    </plurals>
+    <plurals name="personal__check_in_details_bonus_item_2">
+        <item quantity="other">"2. Les bonificacions són vàlides per a %d dies. Se suprimiran del compte automàticament un cop caduquin."</item>
+        <item quantity="one">"2. Les bonificacions són vàlides per %d dia. Se suprimiran del compte automàticament un cop caduquin."</item>
+    </plurals>
+    <plurals name="personal__continuous_days_card_tip">
+        <item quantity="other">Dia %d</item>
+        <item quantity="one">Dia %d</item>
+    </plurals>
+    <plurals name="personal__continuous_days_title">
+        <item quantity="other">Dies</item>
+        <item quantity="one">dia</item>
+    </plurals>
+    <plurals name="personal__welfare_check_in_button_done">
+        <item quantity="other">Obtenir %d bonificacions demà</item>
+        <item quantity="one">Obtenir %d bonificació demà</item>
+    </plurals>
+    <plurals name="personal__welfare_details_bonus_item_3">
+        <item quantity="other">"3. Les bonificacions tenen una validesa de %d dies. Se suprimiran del compte automàticament un cop caduquin."</item>
+        <item quantity="one">"3. Les bonificacions són vàlides per %d dia. Se suprimiran del compte automàticament un cop caduquin."</item>
+    </plurals>
+    <plurals name="players">
+        <item quantity="other">%d jugadors</item>
+        <item quantity="one">%d jugador</item>
+    </plurals>
+    <plurals name="pref_adblock_counts">
+        <item quantity="other">%d anuncis bloquejats</item>
+        <item quantity="one">%d anunci bloquejat</item>
+    </plurals>
+    <plurals name="privacy_dialog_next_plurals">
+        <item quantity="other">Següent (%1$d seg)</item>
+        <item quantity="one">Següent (%1$d seg)</item>
+    </plurals>
+    <plurals name="privacy_dialog_revoke_plurals">
+        <item quantity="other">Retirar (%1$d seg)</item>
+        <item quantity="one">Retirada (%1$d seg)</item>
+    </plurals>
+    <plurals name="reading__chapter_exchange_money_for_coins">
+        <item quantity="other">%3$d monedes per a %1$s%2$1.2f</item>
+        <item quantity="one">%3$d moneda per a %1$s%2$1.2f</item>
+    </plurals>
+    <plurals name="reading__chapter_need_pay_view__balance">
+        <item quantity="other">Balanç: monedes %d</item>
+        <item quantity="one">Balanç: moneda de %d</item>
+    </plurals>
+    <plurals name="reading__chapter_need_pay_view__price">
+        <item quantity="other">Preu: monedes %d</item>
+        <item quantity="one">Preu: moneda de %d</item>
+    </plurals>
+    <plurals name="reading__chapter_need_pay_view__unlock">
+        <item quantity="other">Pagar %d monedes</item>
+        <item quantity="one">Pagar %d moneda</item>
+    </plurals>
+    <plurals name="reading__chapter_pay_view__bonus">
+        <item quantity="other">bonificacions %d</item>
+        <item quantity="one">bonificació %d</item>
+    </plurals>
+    <plurals name="reading__chapter_pay_view__coins">
+        <item quantity="other">Monedes %d</item>
+        <item quantity="one">moneda %d</item>
+    </plurals>
+    <plurals name="reading__chapter_pay_view_read_chapter_price">
+        <item quantity="other">Podeu desbloquejar aquest capítol per a %d monedes.</item>
+        <item quantity="one">Podeu desbloquejar aquest capítol per a %d moneda.</item>
+    </plurals>
+    <plurals name="reading__chapter_wait_unlock_tips_chances_left_today">
+        <item quantity="other">Avui pots esperar %s més vegades</item>
+        <item quantity="one">Avui pots esperar %s més temps</item>
+    </plurals>
+    <plurals name="reading__reading_retain_10_reward">
+        <item quantity="other">"Obtindràs 10 bonificacions si llegeixes durant %d minuts més. Voleu continuar llegint?"</item>
+        <item quantity="one">"Obtindràs 10 bonificacions si llegeixes durant %d minut més. Voleu continuar llegint?"</item>
+    </plurals>
+    <plurals name="reading__reading_retain_15_reward">
+        <item quantity="other">"Obtindràs 15 bonificacions si llegeixes durant %d minuts més. Voleu continuar llegint?"</item>
+        <item quantity="one">"Obtindràs 15 bonificacions si llegeixes durant %d minut més. Voleu continuar llegint?"</item>
+    </plurals>
+    <plurals name="reading__reading_retain_20_reward">
+        <item quantity="other">"Obtindràs 20 bonificacions si llegeixes durant %d minuts més. Voleu continuar llegint?"</item>
+        <item quantity="one">"Obtindràs 20 bonificacions si llegeixes durant %d minut més. Voleu continuar llegint?"</item>
+    </plurals>
+    <plurals name="reading__reading_retain_5_reward">
+        <item quantity="other">"Obtindràs 5 bonificacions si llegeixes durant %d minuts més. Voleu continuar llegint?"</item>
+        <item quantity="one">"Obtindràs 5 bonificacions si llegeixes durant %d minut més. Voleu continuar llegint?"</item>
+    </plurals>
+    <plurals name="reading__reading_retain_common_time">
+        <item quantity="other">"Rebràs bonificacions %d si continues llegint. Continuar?"</item>
+        <item quantity="one">"Rebràs %d bonificació si continues llegint. Continuar?"</item>
+    </plurals>
+    <plurals name="reading__search_resultful">
+        <item quantity="other">S\'han trobat %1$d resultats</item>
+        <item quantity="one">S\'ha trobat %1$d resultat</item>
+    </plurals>
+    <plurals name="reading__shared__toc_new_chapter">
+        <item quantity="other">%d capítols disponibles fins ara</item>
+        <item quantity="one">%d capítol disponible fins ara</item>
+    </plurals>
+    <plurals name="reading__shared__toc_total_chapter">
+        <item quantity="other">%d capítols</item>
+        <item quantity="one">capítol %d</item>
+    </plurals>
+    <plurals name="reading__wait_to_unlock_rule">
+        <item quantity="other">"1. Toca per iniciar el temporitzador. Quan acabi el temps, aquest capítol es desbloquejarà de forma gratuïta.
+2. Podeu esperar a llegir gratuïtament %d vegades al dia."</item>
+        <item quantity="one">"1. Toca per iniciar el temporitzador. Quan acabi el temps, aquest capítol es desbloquejarà de forma gratuïta.
+2. Podeu esperar a llegir gratuïtament %d hora al dia."</item>
+    </plurals>
+    <plurals name="scanning_notyfy">
+        <item quantity="other">S\'…de fitxers %d</item>
+        <item quantity="one">S\'ha trobat…de fitxer %d</item>
+    </plurals>
+    <plurals name="scanresult">
+        <item quantity="other">S\'han trobat els fitxers %d</item>
+        <item quantity="one">S\'ha trobat %d fitxer</item>
+    </plurals>
+    <plurals name="search_trending_views">
+        <item quantity="other">%s sol·licituds de cerca</item>
+        <item quantity="one">%s sol·licitud de cerca</item>
+    </plurals>
+    <plurals name="sku_price">
+        <item quantity="other">%2$s cada %1$s mesos</item>
+        <item quantity="one">%2$s cada %1$s mes</item>
+    </plurals>
+    <plurals name="store__fiction_detail_all_chapter">
+        <item quantity="other">%d capítols</item>
+        <item quantity="one">capítol %d</item>
+    </plurals>
+    <plurals name="suggest_access_item_album_songs">
+        <item quantity="other">%d cançons</item>
+        <item quantity="one">%d cançó</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_albums">
+        <item quantity="other">%d àlbums</item>
+        <item quantity="one">%d àlbum</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_pop">
+        <item quantity="other">%d cançons populars</item>
+        <item quantity="one">%d cançó popular</item>
+    </plurals>
+    <plurals name="tag_count">
+        <item quantity="other">%d pestanyes</item>
+        <item quantity="one">%d pestanya</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d elements seleccionats</item>
+        <item quantity="one">%1$d element seleccionat</item>
+    </plurals>
+    <plurals name="video_collection_reminder_view">
+        <item quantity="other">"No has vist %d dels teus vídeos favorits des de fa molt de temps."</item>
+        <item quantity="one">"No has vist %d vídeo favorit des de fa molt de temps."</item>
+    </plurals>
+    <plurals name="video_views">
+        <item quantity="other">%s vistes</item>
+        <item quantity="one">%s vista</item>
+    </plurals>
+    <plurals name="videos_updated_amount">
+        <item quantity="other">Comprova %1$d vídeos nous</item>
+        <item quantity="one">Comprova %1$d vídeo nou</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d vistes</item>
+        <item quantity="one">%1$d vista</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%dk views</item>
+        <item quantity="one">%dk view</item>
+    </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="other">%d persones han votat</item>
+        <item quantity="one">%d persona ha votat</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_ad">
+        <item quantity="other">%d anuncis bloquejats</item>
+        <item quantity="one">%d anunci bloquejat</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_allow_times">
+        <item quantity="other">S\'ha permès en %d ocasions</item>
+        <item quantity="one">S\'ha permès en %d ocasió</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_disallow_times">
+        <item quantity="other">S\'ha restringit en %d ocasions</item>
+        <item quantity="one">S\'ha restringit en %d ocasió</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_privacy">
+        <item quantity="other">S\'ha aturat en %d ocasions</item>
+        <item quantity="one">S\'ha aturat en %d ocasió</item>
+    </plurals>
+    <plurals name="web_permission_ad_subtitle">
+        <item quantity="other">%s anuncis bloquejats</item>
+        <item quantity="one">%s anunci bloquejat</item>
+    </plurals>
+    <plurals name="web_permission_allow_default_subtitle">
+        <item quantity="other">S\'ha permès en %s ocasions</item>
+        <item quantity="one">S\'ha permès en %s ocasió</item>
+    </plurals>
+    <plurals name="web_permission_deny_default_subtitle">
+        <item quantity="other">S\'ha restringit en %s ocasions</item>
+        <item quantity="one">S\'ha restringit en %s ocasió</item>
+    </plurals>
+    <plurals name="web_permission_privacy_subtitle">
+        <item quantity="other">S\'ha aturat en %s ocasions</item>
+        <item quantity="one">S\'ha aturat en %s ocasió</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_day">
+        <item quantity="other">%s dies</item>
+        <item quantity="one">%s dia</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_time">
+        <item quantity="other">%s vegades</item>
+        <item quantity="one">%s vegada</item>
+    </plurals>
+    <plurals name="welcome_skip_count_down">
+        <item quantity="other">%d segs</item>
+        <item quantity="one">%d seg</item>
+    </plurals>
+</resources>
